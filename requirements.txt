@@ -1,0 +1,5 @@
+pytest
+playwright
+openpyxl
+python-dotenv
+allure-pytest
